@@ -1,0 +1,1 @@
+In this Fundamental of Data Analytics Assignment project we have tried to predict customer converion likelyhood for HashSysTech term life insurance products using Machine learning predictive models, folling all necessary steps of data importing, cleaning, transformation, modeling, visulization and summarization.
